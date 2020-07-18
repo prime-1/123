@@ -1,3 +1,2 @@
 123
 add fun1
-add fun2
