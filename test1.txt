@@ -1,2 +1,7 @@
 123
+<<<<<<< HEAD
 11111
+=======
+add fun1
+add fun2
+>>>>>>> origin/develop
